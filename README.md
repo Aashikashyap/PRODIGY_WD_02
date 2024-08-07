@@ -1,4 +1,4 @@
-# PRODIGY_WD_02
+# PRODIGY_WD_02 Stop Watch Web Application
 TASK 2 of Prodigy Infotech Stop Watch Web Application
 To build a stopwatch web application, you can use HTML, CSS, and JavaScript.
 HTML is used to structure the elements of the application.
